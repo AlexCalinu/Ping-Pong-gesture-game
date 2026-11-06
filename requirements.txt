@@ -1,0 +1,5 @@
+pygame>=2.5
+opencv-python>=4.8
+# 0.10.21 este ultima versiune care include API-ul mp.solutions folosit de joc
+# (versiunile mai noi l-au eliminat). Necesita Python 3.9 - 3.12.
+mediapipe==0.10.21
